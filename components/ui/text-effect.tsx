@@ -9,7 +9,7 @@ import type {
   Transition,
   Variant,
   Variants,
-} from 'motion/react'
+} from 'motion/react';
 import React from 'react';
 
 export type PresetType = 'blur' | 'fade-in-blur' | 'scale' | 'fade' | 'slide';
